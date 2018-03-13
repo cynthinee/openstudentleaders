@@ -5,7 +5,9 @@ Hello! Welcome to the Open Student Leaders project.
 
 Thank you for visiting the Open Student Leaders repository. This project stems from the need to bring conversations and policies around open to college and university campuses, empowering students to learn about and lead open initiatives. 
 
-Project description:
+What we're doing:
+
+We are a student-led initiative at East Los Angeles College, a two-year community college in Southern California. While there are open projects happening on our campus, these conversations haven't been happening at an institutional level. When we talk about openness, we really see open initiatives as solutions to inequity in information and inequity in educational opportunity. This can include open access, open education, open data, and open science. 
 
 Write a project description: what you’re doing, with who, for who, and why. Sound familiar? This is a version of your project vision. Expand your sentence as a full paragraph, adding any new details about aims and the problems you plan to solve that surfaced in the Open Canvas activity. Try to phrase this so it’s understandable and appealing to a wide variety of people, not just those in your field.
 
