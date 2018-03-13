@@ -16,13 +16,13 @@ Secondly, we see inequity in access to information at both the institutional and
 
 **The four areas around openness that our project will involve are:**
 
-* Open access (OA): "the free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment" - [SPARC](https://sparcopen.org/open-access/)
+* Open access (OA): "the free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment" -[SPARC](https://sparcopen.org/open-access/)
 
-* Open education and open educational resources (OER): "Open Education encompasses resources, tools and practices that are free of legal, financial and technical barriers and can be fully used, shared and adapted in the digital environment. Open Education maximizes the power of the Internet to make education more affordable, accessible and effective+ - [SPARC](https://sparcopen.org/open-education/)
+* Open education and open educational resources (OER): "Open Education encompasses resources, tools and practices that are free of legal, financial and technical barriers and can be fully used, shared and adapted in the digital environment. Open Education maximizes the power of the Internet to make education more affordable, accessible and effective" -[SPARC](https://sparcopen.org/open-education/)
 
-* Open data: "is research data that is freely available on the internet permitting any user to download, copy, analyse, re-process, pass to software or use for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself" - [SPARC](https://sparcopen.org/open-data/)
+* Open data: "is research data that is freely available on the internet permitting any user to download, copy, analyse, re-process, pass to software or use for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself" -[SPARC](https://sparcopen.org/open-data/)
 
-* Open science: "is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods" - [FOSTER](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
+* Open science: "is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods" -[FOSTER](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
 
 There are several elements to this project:
 
