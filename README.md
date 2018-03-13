@@ -7,11 +7,30 @@ Thank you for visiting the Open Student Leaders repository. This project stems f
 
 What we're doing:
 
-We are a student-led initiative at East Los Angeles College, a two-year community college in Southern California. While there are open projects happening on our campus, these conversations haven't been happening at an institutional level. When we talk about openness, we really see open initiatives as solutions to inequity in information and inequity in educational opportunity. This can include open access, open education, open data, and open science. 
+We are a student-led initiative at East Los Angeles College, a two-year community college in Southern California. While there are open projects happening in pockets around our campus, these conversations haven't been happening at an institutional level. We see open initiatives as solutions to inequity in information and inequity in educational opportunity. 
 
-Write a project description: what you’re doing, with who, for who, and why. Sound familiar? This is a version of your project vision. Expand your sentence as a full paragraph, adding any new details about aims and the problems you plan to solve that surfaced in the Open Canvas activity. Try to phrase this so it’s understandable and appealing to a wide variety of people, not just those in your field.
+At our college, this manifests in several ways. Most visibly, the cost of education today is exorbitant. Students struggle to pay for tuition even with fee waivers, and are then expected to pay hundreds of dollars on textbooks each semester. Thus, students who are unable to afford textbooks are at a deficit in their courses. Reducing the cost of required materials through open educational resources (OER) and open textbooks would benefit student success initiatives on campus.
 
-Explain what makes your project special, useful, exciting! You can use the ideas you generated for “Unique Value Proposition” in your Open Canvas here.
+Secondly, we see inequity in access to information at both the institutional and community level. As a community college, we have less funding allocated to library database subscriptions and therefore have less access to scholarly materials. Supporting open access publishing would allow us to have access to more quality scholarly content that we would otherwise be unable to afford. Our institution is also represented by low-income communities of color, in which access to information is often inaccessible. 
+
+The four areas around openness that our project will involve are:
+
+* Open access (OA)
+* Open education and open educational resources (OER)
+* Open data
+* Open science
+
+There are several elements to this project:
+
+* Workshops on open to students and student groups
+* Recruitment of students interested in participating in open initiatives at the individual or group level
+* Drafting of a student group charter with a collective mission and vision
+* Identifying student interests and create subgroups around the four areas of openness
+* Facilitation of individual and group projects over the semester and/or academic year
+  * For the open education track: drafting a student government senate resolution supporting the institutionalization of OER, including the promotion of, support for, and incentivization for faculty of open textbooks.
+* Identifying faculty mentors to work with individual or group projects 
+* Building a repository in which to showcase student open projects 
+* Presenting and publishing at conferences and open access journals to demonstrate the strength in student-led open initiatives 
 
 Getting started:
 
@@ -19,4 +38,8 @@ Show how to get started using or contributing to the project. If you’re just g
 
 Required resources:
 
-State what resources are most needed. If you have a need for a special kind of help, expertise, or a resource like event space, be sure to mention that here.
+* Interested students
+* Space to meet with students: synchronous in-person & asynchronous online spaces 
+  * Classroom for student club meetings
+  * Course LMS (e.g. Canvas) in which to build student club content in a format that students are familiar with 
+* Faculty committed to open who can work with students
