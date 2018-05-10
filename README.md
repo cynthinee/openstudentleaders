@@ -10,7 +10,7 @@ Thank you for visiting the Open Student Leaders repository. This project stems f
 
 We are a student-led initiative at East Los Angeles College, a two-year community college in Southern California. While there are open projects happening in pockets around our campus, these conversations haven't been happening at an institutional level. We see open initiatives as solutions to inequity in information and inequity in educational opportunity. 
 
-[Phase One: Institutionalizing OER](https://github.com/cynthinee/openstudentleaders/blob/master/OER)
+[Phase One: Institutionalizing OER](https://github.com/cynthinee/openstudentleaders/blob/master/PhaseOne_OER)
 
 At our college, this manifests in several ways. Most visibly, the cost of education today is exorbitant. Students struggle to pay for tuition even with fee waivers, and are then expected to pay hundreds of dollars on textbooks each semester. Thus, students who are unable to afford textbooks are at a deficit in their courses. Reducing the cost of required materials through open educational resources (OER) and open textbooks would benefit student success initiatives on campus.
 
@@ -21,7 +21,7 @@ Elements of Phase One include:
  * Create and host student workshops on OER 
  * Recruit students to Phase Two student-led open projects 
 
-[Phase Two: Student-Led Open Projects](https://github.com/cynthinee/openstudentleaders/blob/master/openprojects)
+[Phase Two: Student-Led Open Projects](https://github.com/cynthinee/openstudentleaders/blob/master/PhaseTwo_openprojects)
 
 Secondly, we see inequity in access to information at both the institutional and community level. As a community college, we have less funding allocated to library database subscriptions and therefore have less access to scholarly materials. Supporting open access publishing would allow us to have access to more quality scholarly content that we would otherwise be unable to afford. Our institution is also represented by low-income communities of color, in which access to information is often inaccessible. 
 
