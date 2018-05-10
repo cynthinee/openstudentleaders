@@ -10,7 +10,11 @@ Thank you for visiting the Open Student Leaders repository. This project stems f
 
 We are a student-led initiative at East Los Angeles College, a two-year community college in Southern California. While there are open projects happening in pockets around our campus, these conversations haven't been happening at an institutional level. We see open initiatives as solutions to inequity in information and inequity in educational opportunity. 
 
+Phase One: Institutionalizing OER
+
 At our college, this manifests in several ways. Most visibly, the cost of education today is exorbitant. Students struggle to pay for tuition even with fee waivers, and are then expected to pay hundreds of dollars on textbooks each semester. Thus, students who are unable to afford textbooks are at a deficit in their courses. Reducing the cost of required materials through open educational resources (OER) and open textbooks would benefit student success initiatives on campus.
+
+Phase Two: Student-Led Open Projects
 
 Secondly, we see inequity in access to information at both the institutional and community level. As a community college, we have less funding allocated to library database subscriptions and therefore have less access to scholarly materials. Supporting open access publishing would allow us to have access to more quality scholarly content that we would otherwise be unable to afford. Our institution is also represented by low-income communities of color, in which access to information is often inaccessible. 
 
@@ -38,7 +42,9 @@ There are several elements to this project:
 
 **Getting started:**
 
-Show how to get started using or contributing to the project. If you’re just getting started, this could be as simple as asking people to attend a planning call or kick-off event, or sign up for an email newsletter about the project. If you’re not sure quite how to get users involved just yet, don’t worry! In the next module, you’ll devise some ways for newcomers to get involved, and create contributor guidelines. Once you’ve done the next module, and you can come back to this README and add a link to contributor guidelines to this section.
+TBD. 
+
+Contributor Guidelines...
 
 **Required resources:**
 
